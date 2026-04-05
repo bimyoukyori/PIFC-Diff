@@ -14,7 +14,7 @@ PIFC-Diff: A Physics-Informed and Feature-Conditioned Latent Diffusion Model for
 
 ## Data Availability
 
-* **Synthetic Data:** The synthetic GPR datasets generated and used for training in this study are available upon reasonable request for academic purposes. For access, please contact the corresponding author at **hktk-12@163.com**.
+* **Synthetic Data:** The synthetic GPR datasets generated and used for training in this study are available upon reasonable request for academic purposes. For access, please contact the corresponding author at **xxxx@xxx.com**.
 * **Field Data:** The real-world bridge deck GPR dataset used for field validation is publicly open-source. We gratefully acknowledge the 4TU.ResearchData repository for providing this dataset, which can be accessed via DOI: [10.4121/96303227-5886-41c9-8607-70fdd2cfe7c1.v1](https://doi.org/10.4121/96303227-5886-41c9-8607-70fdd2cfe7c1.v1).
 
 ## Citation
