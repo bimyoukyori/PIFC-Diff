@@ -8,9 +8,9 @@ PIFC-Diff: A Physics-Informed and Feature-Conditioned Latent Diffusion Model for
 
 * `train.py`: Core model training (U-Net + Physics-Guided Loss).
 * `enhance.py`: Inference script for GPR B-scan enhancement.
-* `field_apply.py`: Zero-shot application on real-world GPR data.
+* `field.py`: Zero-shot application on real-world GPR data.
 * `ablation.py` & `baseline.py`: Scripts to reproduce paper experiments.
-* `rtm_assess.py`: Reverse Time Migration (RTM) assessment.
+* `rtm.py`: Reverse Time Migration (RTM) assessment.
 
 ## Data Availability
 
