@@ -12,12 +12,6 @@ PIFC-Diff: A Physics-Informed and Feature-Conditioned Latent Diffusion Model for
 * `ablation.py` & `baseline.py`: Scripts to reproduce paper experiments.
 * `rtm_assess.py`: Reverse Time Migration (RTM) assessment.
 
-## Quick Start
-
-**1. Install dependencies**
-```bash
-pip install -r requirements.txt
-
 ## Data Availability
 
 * **Synthetic Data:** The synthetic GPR datasets generated and used for training in this study are available upon reasonable request for academic purposes. For access, please contact the corresponding author at **hktk-12@163.com**.
