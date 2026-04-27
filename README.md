@@ -2,11 +2,11 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-PIFC-Diff: A Physics-Informed and Feature-Conditioned Latent Diffusion Model for Self-Supervised GPR B-scan Enhancement
+PIFC-Diff: A Physics-Informed Feature-Conditioned Diffusion Framework for Self-Supervised GPR B-Scan Enhancement
 
 ## Repository Structure
 
-* `train.py`: Core model training (U-Net + Physics-Guided Loss).
+* `train.py`: Core model training .
 * `enhance.py`: Inference script for GPR B-scan enhancement.
 * `field.py`: Zero-shot application on real-world GPR data.
 * `ablation.py` & `baseline.py`: Scripts to reproduce paper experiments.
