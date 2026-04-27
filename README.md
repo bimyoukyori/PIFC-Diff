@@ -23,7 +23,7 @@ If you find this repository useful in your research, please consider citing our 
 
 ```bibtex
 @article{pifcdiff2026,
-  title={PIFC-Diff: A Physics-Informed and Feature-Conditioned Latent Diffusion Model for Self-Supervised GPR B-scan Enhancement},
+  title={PIFC-Diff: A Physics-Informed Feature-Conditioned Diffusion Framework for Self-Supervised GPR B-Scan Enhancement},
   author={Lastname, Firstname and Lastname, Firstname},
   journal={Name of the Journal},
   year={2026},
